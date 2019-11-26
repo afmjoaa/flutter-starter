@@ -1,6 +1,7 @@
-# hahaha
+# FlutterDemo
 
-A new Flutter project.
+A new Flutter project for android/Ios/Windows/Web
+even linux and MacOs is integrable
 
 ## Getting Started
 
